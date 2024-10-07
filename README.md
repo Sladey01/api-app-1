@@ -1,1 +1,1 @@
-fork, clone, npm install, the node app.js
+fork, clone, npm install, then run node app.js
